@@ -1,0 +1,54 @@
+body {
+    padding-top: 50px;
+}
+
+.starter-template {
+    padding: 40px 15px;
+}
+
+form {
+/*    width: 700px;
+    max-width: 700px;*/
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.form-button {
+    width: 270px;
+    margin-top: 8px;
+}
+
+.alert {
+    width: 400px;
+    max-width: 400px;
+}
+
+.sortOption {
+    margin-bottom: 20px;
+}
+
+.sortOption a.btn {
+    width: 80px;
+}
+
+.admin-button {
+    margin: 5px;
+}
+
+.admin-message-body {
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+input.error {
+	border: 1px solid #ff0000;
+}
+
+textarea.error  {
+	border: 1px solid #ff0000;
+}
+
+label.error {
+	color: #ff0000;
+	font-weight: normal;
+}

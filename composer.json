@@ -1,0 +1,17 @@
+{
+    "name": "lexa/feedback",
+    "description": "feedback form mvc",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alexey Burtsev",
+            "email": "alexburcev@bk.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "feedback\\": ""
+        }
+    }
+}
