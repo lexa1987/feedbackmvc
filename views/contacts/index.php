@@ -1,7 +1,3 @@
-<script>
-var a=<?= json_encode($data) ?>;
-console.log(a);
-</script>
 <h3>Сообщения:</h3>
 <div class="row sortOption">
     <div class="col-md-5 col-md-offset-7">
