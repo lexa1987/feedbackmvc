@@ -98,7 +98,6 @@ $(document).ready(function() {
   function resizeImages(file, complete) {
     // read file as dataUrl
     ////////  2. Read the file as a data Url
-    console.log(file.type);
     if(testTypeFile(file.type)) {
         var reader = new FileReader();
           // file read
